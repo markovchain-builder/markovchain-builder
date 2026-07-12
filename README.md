@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Hangxi Guo
+# 👋 Hi, I'm Annie Guo
 
 **Undergraduate Researcher @ The Chinese University of Hong Kong, Shenzhen**
 
-*Interested in Foundation Models, Agentic AI, Reinforcement Learning, and Decision Making under Uncertainty.*
+*Interested in Foundation Models, Reinforcement Learning, LLM Post-training, and Agentic AI.*
 
 <img src="https://img.shields.io/badge/CUHK--Shenzhen-Data%20Science-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -14,66 +14,33 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 I am an undergraduate researcher at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**.
 
-My research focuses on **foundation models**, **LLM post-training**, **reinforcement learning**, and **agentic systems**, with an emphasis on building reliable AI systems for sequential decision-making.
+My research lies at the intersection of **foundation models**, **reinforcement learning**, and **agentic AI**, with a particular interest in understanding and improving the post-training of large language models.
 
-Currently, I am studying how post-training reshapes large language models through parameter-space analysis and exploring algorithmic approaches for reliable LLM agents.
+Currently, I am investigating the mechanisms of LLM post-training through parameter-space analysis and exploring algorithmic approaches for building reliable AI agents.
 
-**Research Interests**
+In the long term, I hope to contribute to the development of trustworthy foundation models and autonomous systems capable of robust decision-making under uncertainty.
 
+---
+
+# 🔬 Research Interests
+
+- Foundation Models
+- LLM Post-training & Alignment
 - Reinforcement Learning for Foundation Models
 - LLM Agents & Multi-Agent Systems
-- LLM Post-training & Alignment
 - Decision Making under Uncertainty
-
-📫 **Email:** keepstudying931@gmail.com
-
----
-
-## 🔬 Selected Research
-
-### 🚀 Understanding LLM Post-training through Model Diffing *(Ongoing)*
-
-**Research Question**
-
-How does post-training reshape the parameter space of large language models?
-
-Current work includes:
-
-- Studying parameter-space dynamics induced by post-training.
-- Investigating low-rank structures in LM-head updates across multiple model families.
-- Exploring fine-grained representation changes beyond dominant spectral directions.
-- Building experimental pipelines using PyTorch and Hugging Face Transformers.
-
-*First-author manuscript in preparation.*
+- Mechanistic Interpretability
 
 ---
 
-### 🧬 Stochastic Modeling of Cancer Evolutionary Dynamics
+# 📫 Contact
 
-Research on mathematical modeling of tumor evolution using stochastic processes.
-
-Highlights:
-
-- Developed Continuous-Time Markov Chain (CTMC) models for tumor evolution.
-- Derived transient dynamics via Kolmogorov Forward Equations.
-- Implemented Gillespie Algorithm and Monte Carlo simulations.
-- Extended classical stochastic models toward spatial evolutionary settings.
-
----
-
-## 🛠 Tech Stack
-
-| Area | Technologies |
-|------|--------------|
-| **Deep Learning** | PyTorch · Hugging Face Transformers · Accelerate · Scikit-learn |
-| **RL & Alignment** | PPO · DPO · RLHF · GRPO · Actor-Critic |
-| **Agent Systems** | LangChain · Tool Calling · Hybrid RAG |
-| **Programming** | Python · Linux · Git · SQL |
-| **Mathematics** | Optimization · Stochastic Processes · CTMC |
+- **Email:** keepstudying931@gmail.com
+- **GitHub:** https://github.com/markovchain-builder
 
 ---
 
@@ -91,8 +58,6 @@ Highlights:
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."*
-
-⚡ *My GitHub username comes from my long-standing interest in stochastic processes and Markov chains.*
+*"Curiosity drives questions. Evidence drives understanding."*
 
 </div>
