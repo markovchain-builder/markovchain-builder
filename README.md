@@ -1,73 +1,98 @@
 <div align="center">
-  <h1>👋 Hi, I'm Hangxi Guo </h1>
-  <p><b>Undergraduate Researcher @ CUHK-Shenzhen | AI & Alignment & Stochastic Modeling</b></p>
 
-  <img src="https://img.shields.io/badge/CUHK--SZ-Data%20Science-blue?style=flat-square&logo=education" alt="University">
-  <img src="https://img.shields.io/badge/TMLR-Reviewer-orange?style=flat-square&logo=academic" alt="Reviewer">
-  <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+# 👋 Hi, I'm Hangxi Guo
+
+**Undergraduate Researcher @ The Chinese University of Hong Kong, Shenzhen**
+
+*Interested in Foundation Models, Agentic AI, Reinforcement Learning, and Decision Making under Uncertainty.*
+
+<img src="https://img.shields.io/badge/CUHK--Shenzhen-Data%20Science-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
 </div>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-I am an undergraduate researcher at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**. My passion lies at the intersection of **LLM Post-training (Alignment)**, **Mechanistic Interpretability**, and **Agentic Systems**. 
+I am an undergraduate researcher at **The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)**.
 
-* 🔭 **Current Focus:** Investigating parameter-space dynamics and weight differences (ΔW) during LLM post-training (RLHF/DPO).
-* 🎯 **Long-term Goal:** Building reliable, transparent multi-modal agents for decision-making under uncertainty.
-* ✉️ **Contact:** [hangxiguo@link.cuhk.edu.cn](mailto:hangxiguo@link.cuhk.edu.cn)
+My research focuses on **foundation models**, **LLM post-training**, **reinforcement learning**, and **agentic systems**, with an emphasis on building reliable AI systems for sequential decision-making.
 
----
+Currently, I am studying how post-training reshapes large language models through parameter-space analysis and exploring algorithmic approaches for reliable LLM agents.
 
-### 🔬 Research Highlights
+**Research Interests**
 
-#### 🚀 [Featured] Mechanistic Analysis of Post-training via Model Diffing
-* **Storyline:** How does alignment (Base → Instruction) reshape LLM parameter space?
-* **Key Findings:** * Discovered consistent **low-rank structures** in LM-head updates across Llama, Qwen, and Gemma.
-  * Proved through causal interventions (ablation, steering) that **dominant spectral directions alone cannot fully explain aligned behaviors**.
-  * Moving forward to **fine-grained, localized representation analysis** for LLM post-training.
-* *Manuscript in preparation for top-tier AI conferences.*
+- Reinforcement Learning for Foundation Models
+- LLM Agents & Multi-Agent Systems
+- LLM Post-training & Alignment
+- Decision Making under Uncertainty
 
-#### 🧬 Stochastic Modeling of Cancer Evolutionary Dynamics
-* Applied **Continuous-Time Markov Chains (CTMC)** and Kolmogorov Forward Equations to formalize tumor transitions.
-* Simulated mutation impacts on fixation time using the **Gillespie Algorithm** and Monte Carlo methods.
+📫 **Email:** keepstudying931@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Toolkits
+## 🔬 Selected Research
 
-<table>
-  <tr>
-    <td align="center" width="120"><b>Deep Learning</b></td>
-    <td>PyTorch, Hugging Face (Transformers, Accelerate), Scikit-learn</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>RL & Alignment</b></td>
-    <td>RLHF, DPO, GRPO, PPO, Actor-Critic</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Agent & Inf</b></td>
-    <td>LangChain, Hybrid RAG, Tool-Calling Databases, OpenCV</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Mathematics</b></td>
-    <td>Stochastic Modeling, Continuous-Time Markov Chains, Optimization</td>
-  </tr>
-</table>
+### 🚀 Understanding LLM Post-training through Model Diffing *(Ongoing)*
+
+**Research Question**
+
+How does post-training reshape the parameter space of large language models?
+
+Current work includes:
+
+- Studying parameter-space dynamics induced by post-training.
+- Investigating low-rank structures in LM-head updates across multiple model families.
+- Exploring fine-grained representation changes beyond dominant spectral directions.
+- Building experimental pipelines using PyTorch and Hugging Face Transformers.
+
+*First-author manuscript in preparation.*
 
 ---
 
-### 📊 GitHub Stats & Dynamics
+### 🧬 Stochastic Modeling of Cancer Evolutionary Dynamics
+
+Research on mathematical modeling of tumor evolution using stochastic processes.
+
+Highlights:
+
+- Developed Continuous-Time Markov Chain (CTMC) models for tumor evolution.
+- Derived transient dynamics via Kolmogorov Forward Equations.
+- Implemented Gillespie Algorithm and Monte Carlo simulations.
+- Extended classical stochastic models toward spatial evolutionary settings.
+
+---
+
+## 🛠 Tech Stack
+
+| Area | Technologies |
+|------|--------------|
+| **Deep Learning** | PyTorch · Hugging Face Transformers · Accelerate · Scikit-learn |
+| **RL & Alignment** | PPO · DPO · RLHF · GRPO · Actor-Critic |
+| **Agent Systems** | LangChain · Tool Calling · Hybrid RAG |
+| **Programming** | Python · Linux · Git · SQL |
+| **Mathematics** | Optimization · Stochastic Processes · CTMC |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=markovchain-builder&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Hangxi's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markovchain-builder&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=markovchain-builder&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markovchain-builder&layout=compact&theme=tokyonight"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
-  <sub>⚡ Fun Fact: My GitHub handle comes from my deep love for stochastic processes and Markov chains!</sub>
+
+*"The best way to predict the future is to invent it."*
+
+⚡ *My GitHub username comes from my long-standing interest in stochastic processes and Markov chains.*
+
 </div>
