@@ -39,7 +39,6 @@ In the long term, I hope to contribute to the development of trustworthy foundat
 
 # 📫 Contact
 
-- **Email:** keepstudying931@gmail.com
 - **GitHub:** https://github.com/markovchain-builder
 
 ---
