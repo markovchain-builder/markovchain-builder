@@ -4,7 +4,7 @@
 
 **Undergraduate Researcher @ The Chinese University of Hong Kong, Shenzhen**
 
-*Interested in Foundation Models, Reinforcement Learning, LLM Post-training, and Agentic AI.*
+*Interested in Foundation Models,Autoresearch, Reinforcement Learning, LLM Post-training, and Agentic AI.*
 
 <img src="https://img.shields.io/badge/CUHK--Shenzhen-Data%20Science-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" />
