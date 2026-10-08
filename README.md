@@ -4,7 +4,7 @@
 
 **Undergraduate Researcher @ The Chinese University of Hong Kong, Shenzhen**
 
-*Interested in the synergy between Operations Research (optimization) and Artificial Intelligence, with a focus on Foundation Models, LLM Post-training, Reinforcement Learning, and Agentic Systems.*
+*Interested in Artificial Intelligence, with a focus on Foundation Models, LLM Post-training, Reinforcement Learning, and Agentic Systems.*
 
 <img src="https://img.shields.io/badge/CUHK--Shenzhen-Data%20Science-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=flat-square&logo=python&logoColor=white" />
