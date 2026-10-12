@@ -20,7 +20,7 @@ I am an undergraduate researcher at **The Chinese University of Hong Kong, Shenz
 
 My research lies at the intersection of **autoresearch** and **agentic AI**, with a particular interest in understanding and improving the post-training of large language models.
 
-Currently, I am investigating the mechanisms of LLM post-training through parameter-space analysis and exploring algorithmic approaches for building reliable AI agents.
+Currently, I am working on reinforcement learning methods for LLM post-training, and exploring algorithmic approaches for building reliable AI agents.
 
 In the long term, I hope to contribute to the development of trustworthy foundation models and autonomous systems capable of robust decision-making under uncertainty.
 
@@ -30,11 +30,9 @@ In the long term, I hope to contribute to the development of trustworthy foundat
 # 🔬 Research Interests
 
 **AI Systems & Foundation Models**
-- LLM post-training & alignment
+- LLM post-training
 - Reliable LLM agents & multi-agent systems
-- Mechanistic interpretability of foundation models
 - Automated research 
----
 
 # 📫 Contact
 
