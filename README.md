@@ -25,14 +25,13 @@ Currently, I am working on reinforcement learning methods for LLM post-training,
 In the long term, I hope to contribute to the development of trustworthy foundation models and autonomous systems capable of robust decision-making under uncertainty.
 
 ---
-
-- Foundation Models
 # 🔬 Research Interests
 
 **AI Systems & Foundation Models**
 - LLM post-training
 - Reliable LLM agents & multi-agent systems
-- Automated research 
+- Automated research & Recursive Self Improvement(RSI)
+
 
 # 📫 Contact
 
